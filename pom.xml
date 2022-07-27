@@ -121,11 +121,11 @@
                 <artifactId>arquillian-container-test-api</artifactId>
                 <version>${arquillian.version}</version>
             </dependency>
-            <dependency>
+            <dependency>  
                 <groupId>com.h2database</groupId>
                 <artifactId>h2</artifactId>
-                <version>1.4.197</version>
-            </dependency>
+                <version>2.1.214</version>
+            </dependency>   
             <dependency>
                 <groupId>fish.payara.arquillian</groupId>
                 <artifactId>payara-client-ee7</artifactId>
